@@ -1,0 +1,47 @@
+﻿@page "{id:int}"
+@model LaboratoryReportManagementSystem.Pages.Reports.UpdateModel
+@{
+}
+
+<form method="post">
+    <input type="hidden" asp-for="ReportModel.Id" class="form-control" />
+
+    <div class="form-group">
+        <label for="exampleInputPassword1">FileNumber</label>
+        <input type="text" class="form-control" asp-for="ReportModel.FileNumber" placeholder="Dosya Numarası">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">PatientFullName</label>
+        <input type="text" class="form-control" asp-for="ReportModel.PatientFullName" placeholder="Hastanın Adı">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputPassword1">PatientIdNumber</label>
+        <input type="text" class="form-control" asp-for="ReportModel.PatientIdNumber" placeholder="Hastanın Kimlik Numarası">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">DiagnosisTitle</label>
+        <input type="text" class="form-control" asp-for="ReportModel.DiagnosisTitle" placeholder="Tanı Başlığı">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">PhotoPath</label>
+        <input type="text" class="form-control" asp-for="ReportModel.PhotoPath" placeholder="Fotoğraf Yolu">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">DiagnosisDetails</label>
+        <input type="text" class="form-control" asp-for="ReportModel.DiagnosisDetails" placeholder="Tanı Detayları">
+    </div>
+    <div class="form-group">
+        <label for="exampleFormControlSelect1">Laborant Adı</label>
+        <select class="form-control" name="ReportModel.LaborantId" asp-for="ReportModel.LaborantId" id="exampleFormControlSelect1">
+
+            @foreach (var laborant in Model.LaborantList)
+            {
+                <option value="@laborant.Value">@laborant.Text</option>
+            }
+        </select>
+    </div>
+
+    <br>
+        <button type="submit" class="btn btn-primary">Güncelle</button>
+    
+</form>

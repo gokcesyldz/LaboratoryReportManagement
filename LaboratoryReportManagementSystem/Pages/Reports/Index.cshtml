@@ -1,0 +1,55 @@
+﻿@page
+@model LaboratoryReportManagementSystem.Pages.Reports.IndexModel
+@{
+}
+
+<form method="get">
+    <p>
+        <label for="ReportName">Rapor Adı:</label>
+        <input type="text" id="ReportName" name="ReportName" asp-for="ReportName" />
+
+        <label for="SearchString">Arama Yap (İsim/Soyisim):</label>
+        <input type="text" id="SearchString" name="SearchString" asp-for="SearchString" />
+
+        <input type="submit" value="Filtrele" />
+    </p>
+</form>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">FileNumber</th>
+            <th scope="col">PatientFullName</th>
+            <th scope="col">PatientIdNumber</th>
+            <th scope="col">Delete</th>
+            <th scope="col">Update</th>
+            <th scope="col">Details</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var report in Model.ReportModels)
+        {
+            <tr>
+                <th>@report.Id</th>
+                <td>@report.FileNumber</td>
+                <td>@report.PatientFullName</td>
+                <td>@report.PatientIdNumber</td>
+                <td><a type="button" asp-page="/Reports/Update" asp-page-handler="Delete" asp-route-id="@report.Id" class="btn btn-danger">Delete</a></td>
+                <td><a type="button" href="/Reports/Update/@report.Id" class="btn btn-warning">Update</a></td>
+                <td><a type="button" href="/Reports/Details/@report.Id" class="btn btn-info">Details</a></td>
+            </tr>
+
+        }
+
+    
+</table>
+    </tbody>
+
+
+<div class="d-flex justify-content-end">
+
+    <a type="button" href="/Reports/Create" class="btn btn-outline-secondary">Rapor Ekle</a>
+</div>

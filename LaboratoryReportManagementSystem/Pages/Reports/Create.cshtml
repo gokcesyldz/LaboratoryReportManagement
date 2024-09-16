@@ -1,0 +1,46 @@
+﻿@page
+@model LaboratoryReportManagementSystem.Pages.Reports.CreateModel
+@{
+}
+
+<form method="post">
+    <div class="form-group">
+        <label for="exampleInputPassword1">File Number</label>
+        <input type="text" class="form-control" name="ReportModel.FileNumber" placeholder="Dosya Numarası">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">Patient Full Name</label>
+        <input type="text" class="form-control" name="ReportModel.PatientFullName" placeholder="Hastanın Tam Adı">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputPassword1">Patient Id Number</label>
+        <input type="text" class="form-control" name="ReportModel.PatientIdNumber" placeholder="Hasta Kimlik Numarası">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">DiagnosisTitle</label>
+        <input type="text" class="form-control" name="ReportModel.DiagnosisTitle" placeholder="Tanı Başlığı">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">PhotoPath</label>
+        <input type="text" class="form-control" name="ReportModel.PhotoPath" placeholder="Fotoğraf Yolu">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">DiagnosisDetails</label>
+        <input type="text" class="form-control" name="ReportModel.DiagnosisDetails" placeholder="Tanı Detayları">
+    </div>
+    <div class="form-group">
+        <label for="exampleFormControlSelect1">Laborant Adı</label>
+        <select class="form-control" name="ReportModel.LaborantId" asp-for="ReportModel.LaborantId" id="exampleFormControlSelect1">
+            
+            @foreach (var laborant in Model.LaborantList )
+            {
+                <option value="@laborant.Value">@laborant.Text</option>
+            }
+        </select>
+    </div>
+    <br>
+    <br>
+    <div class="d-flex justify-content-end">
+        <button type="submit" class="btn btn-outline-secondary">Rapor Ekle</button>
+    </div>
+</form>

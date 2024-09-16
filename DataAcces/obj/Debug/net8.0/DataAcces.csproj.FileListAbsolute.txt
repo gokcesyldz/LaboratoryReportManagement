@@ -1,0 +1,56 @@
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\DataAcces\bin\Debug\net8.0\DataAcces.deps.json
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\DataAcces\bin\Debug\net8.0\DataAcces.runtimeconfig.json
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\DataAcces\bin\Debug\net8.0\DataAcces.dll
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\DataAcces\bin\Debug\net8.0\DataAcces.pdb
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.csproj.AssemblyReference.cache
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.AssemblyInfoInputs.cache
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.AssemblyInfo.cs
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.csproj.CoreCompileInputs.cache
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.dll
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\refint\DataAcces.dll
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.pdb
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.genruntimeconfig.cache
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\ref\DataAcces.dll
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\DataAcces\bin\Debug\net8.0\DataAcces.deps.json
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\DataAcces\bin\Debug\net8.0\DataAcces.runtimeconfig.json
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\DataAcces\bin\Debug\net8.0\DataAcces.dll
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\DataAcces\bin\Debug\net8.0\DataAcces.pdb
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.csproj.AssemblyReference.cache
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.AssemblyInfoInputs.cache
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.AssemblyInfo.cs
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.dll
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\refint\DataAcces.dll
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.pdb
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.genruntimeconfig.cache
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\ref\DataAcces.dll
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\DataAcces\bin\Debug\net8.0\DataAcces.deps.json
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\DataAcces\bin\Debug\net8.0\DataAcces.runtimeconfig.json
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\DataAcces\bin\Debug\net8.0\DataAcces.dll
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\DataAcces\bin\Debug\net8.0\DataAcces.pdb
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.csproj.AssemblyReference.cache
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.AssemblyInfoInputs.cache
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.AssemblyInfo.cs
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.dll
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\refint\DataAcces.dll
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.pdb
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.genruntimeconfig.cache
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\ref\DataAcces.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\DataAcces\bin\Debug\net8.0\DataAcces.deps.json
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\DataAcces\bin\Debug\net8.0\DataAcces.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\DataAcces\bin\Debug\net8.0\DataAcces.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\DataAcces\bin\Debug\net8.0\DataAcces.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\refint\DataAcces.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\DataAcces.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\DataAcces\obj\Debug\net8.0\ref\DataAcces.dll

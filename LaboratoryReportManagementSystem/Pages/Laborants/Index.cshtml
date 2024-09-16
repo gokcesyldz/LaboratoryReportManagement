@@ -1,0 +1,52 @@
+﻿@page
+@using Core.Models
+@model LaboratoryReportManagementSystem.Pages.Laborants.IndexModel
+@{
+}
+
+<form method="get">
+    <p>
+        <label for="LaborantName">Laborant Adı:</label>
+        <input type="text" id="LaborantName" name="LaborantName" asp-for="LaborantName" />
+
+        <label for="SearchString">Arama Yap (İsim/Soyisim):</label>
+        <input type="text" id="SearchString" name="SearchString" asp-for="SearchString" />
+
+        <input type="submit" value="Filtrele" />
+    </p>
+</form>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">LastName</th>
+            <th scope="col">HospitalNumber</th>
+            <th scope="col">Delete</th>
+            <th scope="col">Update</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var laborant in Model.LaborantModels)
+        {
+            <tr>
+                <th>@laborant.Id</th>
+                <td>@laborant.FirstName</td>
+                <td>@laborant.LastName</td>
+                <td>@laborant.HospitalNumber</td>
+                <td><a type="button" asp-page="/Laborants/Update" asp-page-handler="Delete" asp-route-id="@laborant.Id" class="btn btn-danger">Delete</a></td>
+                <td><a type="button" href="/Laborants/Update/@laborant.Id" class="btn btn-warning">Update</a></td>
+
+            </tr>
+        }    
+</table>
+    </tbody>
+
+    <div class="d-flex justify-content-end">
+
+    <a type="button" href="/Laborants/Create" class="btn btn-outline-secondary">Laborant Ekle</a>
+    </div>

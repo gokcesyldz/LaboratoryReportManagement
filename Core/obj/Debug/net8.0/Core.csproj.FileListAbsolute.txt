@@ -1,0 +1,60 @@
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\Core.deps.json
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\Core.dll
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\Core.pdb
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\DataAcces.dll
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\DataAcces.pdb
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.csproj.CopyComplete
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.dll
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\refint\Core.dll
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.pdb
+C:\VisualStudioTestProjects\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\Core.dll
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\DataAcces.dll
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\DataAcces.pdb
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.csproj.CopyComplete
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.dll
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\berkay.bilgic\Desktop\Yeni klasör (3)\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\Core.dll
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\DataAcces.dll
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\DataAcces.pdb
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.csproj.CopyComplete
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.dll
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\berkay.bilgic\Desktop\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\DataAcces.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\Core\bin\Debug\net8.0\DataAcces.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\LaboratoryReportManagementSystem\Core\obj\Debug\net8.0\ref\Core.dll

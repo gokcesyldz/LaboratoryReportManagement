@@ -1,0 +1,24 @@
+﻿@page
+@model LaboratoryReportManagementSystem.Pages.Laborants.CreateModel
+@{
+}
+
+
+<form method="post">
+    <div class="form-group">
+        <label for="exampleInputEmail1">First Name</label>
+        <input type="text" class="form-control" name="LaborantModel.FirstName" placeholder="İsim">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputPassword1">Last Name</label>
+        <input type="text" class="form-control" name="LaborantModel.LastName" placeholder="Soyisim">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">Hospital Number</label>
+        <input type="text" class="form-control" name="LaborantModel.HospitalNumber" placeholder="Hastane Numarası">
+    </div>
+    <br>
+    <div class="d-flex justify-content-end">
+    <button type="submit" class="btn btn-outline-secondary">Rapor Ekle</button>
+    </div>
+</form>

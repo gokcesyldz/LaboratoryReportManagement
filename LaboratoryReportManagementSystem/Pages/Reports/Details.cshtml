@@ -1,0 +1,52 @@
+﻿@page "{id:int}"
+@model LaboratoryReportManagementSystem.Pages.Reports.DetailsModel
+@{
+}
+
+<div class="styled-box large">
+   <u> PhotoPath </u>
+   <br><br>
+    <img src="https://www.isu.gov.tr/component/GetFiles.ashx?t=1&FileName=1448.jpg" alt="laboratory reporting" width="400" height="200">
+</div>
+
+<div class="styled-box medium">
+    <u> DiagnosisTitle </u>    
+    <input type="text" class="form-control" name="ReportModel.DiagnosisTitle" placeholder="Tanı Başlığı">
+    <br> <br> <br>
+    <u> ReportDate </u>
+    <input type="text" class="form-control" name="ReportModel.ReportDate" placeholder="Rapor Tarihi">
+</div>
+
+<div class="styled-box small">
+    <u> DiagnosisDetails </u>
+    <input type="text" class="form-control" name="ReportModel.DiagnosisDetails" placeholder="Tanı Detayı">
+</div>
+
+<style>
+    .styled-box {
+        border: 3px solid black; 
+        background-color: white; 
+        margin-bottom: 20px; 
+        box-sizing: border-box; 
+        width: 100%; 
+        max-width: 1400px; 
+    }
+
+    .large {
+        height: 300px; 
+    }
+
+    .medium {
+        height: 200px; 
+    }
+
+    .small {
+        height: 100px; 
+    }
+</style>
+
+<div class="d-flex justify-content-end">
+
+    <a type="button" href="/Reports/Create" class="btn btn-outline-secondary">Kaydet</a>
+
+    </div>

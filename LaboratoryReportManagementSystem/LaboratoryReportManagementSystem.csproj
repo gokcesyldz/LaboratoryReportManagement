@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Pages\Laborants\Details.cshtml.cs" />
+    <Compile Remove="Pages\Laborants\ListViewItem.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Pages\Laborants\Details.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\photo1.jpg" />
+    <None Include="wwwroot\images\photo2.jpg" />
+    <None Include="wwwroot\images\photo3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,45 @@
+﻿@page "{id:int}"
+@model LaboratoryReportManagementSystem.Pages.Laborants.DetailsModel
+@{
+}
+
+<div class="styled-box large">
+    <u> İsim </u>
+</div>
+
+<div class="styled-box medium">
+    <u> Soyisim </u>     
+</div>
+
+<div class="styled-box small">
+    <u> Hastane Numarası </u>
+</div>
+
+<style>
+    .styled-box {
+        border: 3px solid black; /* Siyah kenarlık */
+        background-color: white; /* Beyaz iç kısım */
+        margin-bottom: 20px; /* Alt kısma boşluk */
+        box-sizing: border-box; /* Çerçeve genişliği hesaplamaya dahil edilir */
+        width: 100%; /* Kutu genişliğini sayfa genişliğine göre ayarla */
+        max-width: 1400px; /* Maksimum genişlik */
+    }
+
+    .large {
+        height: 300px; /* Büyük kutu yüksekliği */
+    }
+
+    .medium {
+        height: 200px; /* Orta boy kutu yüksekliği */
+    }
+
+    .small {
+        height: 100px; /* Küçük kutu yüksekliği */
+    }
+
+</style>
+
+<div class="d-flex justify-content-end">
+
+    <a type="button" href="/Laborants/Create" class="btn btn-outline-secondary">Kaydet</a>
+</div>
